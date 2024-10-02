@@ -3,4 +3,5 @@
 
 def myFunction():
   # My Function
-print ("Hello World!")
+x = "Hello World!"
+return x
